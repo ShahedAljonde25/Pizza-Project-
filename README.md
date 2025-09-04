@@ -11,9 +11,6 @@ Users can customize their pizza by selecting size, toppings, crust type, and din
 - ✅ Automatic price calculation  
 - ✅ Confirm and reset order  
 
-## 📸 Preview
-![Pizza](pexels-horizon-content-2100060-3826016.jpg)
-
 ## 🛠 Technologies
 - **C#**  
 - **.NET (Windows Forms)**  
